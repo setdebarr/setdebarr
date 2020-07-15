@@ -10,14 +10,12 @@ I like making random projects mainly in python and C++, and tinkering with other
 
 **Languages and Tools:**
 <p align="center">
-  
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/d42b4002ba98003c1cec739bbdc0ad81661a4ae6/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/d42b4002ba98003c1cec739bbdc0ad81661a4ae6/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/d42b4002ba98003c1cec739bbdc0ad81661a4ae6/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/d42b4002ba98003c1cec739bbdc0ad81661a4ae6/svg/dev/tools/vmware.svg" alt="VMware" style="vertical-align:top; margin:4px">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
-
 </p>
 
 <br />
