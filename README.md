@@ -20,4 +20,4 @@ I like making random projects mainly in python and C++, and tinkering with other
 
 <br />
 
-[![Sean's github stats](https://githubstats.debarrportal.net/api?username=setdebarr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sean's github stats](https://githubstats.debarrportal.net/api?username=setdebarr&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
