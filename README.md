@@ -1,7 +1,4 @@
 ### Hi there, I'm Sean! 👋
-<!--
-![](https://visitor-badge.laobi.icu/badge?page_id=setdebarr.visiter.badge)
--->
 <br />
 <br />
 
@@ -25,7 +22,7 @@ I like making random projects mainly in python and C++, and tinkering with other
 
 
 [![Sean's github stats](https://githubstats.debarrportal.net/api?username=setdebarr&show_icons=true&theme=algolia&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setdebarr)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
