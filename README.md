@@ -1,7 +1,7 @@
 ### Hi there, I'm Sean! 👋
-
+<!--
 ![](https://visitor-badge.laobi.icu/badge?page_id=setdebarr.visiter.badge)
-
+-->
 <br />
 <br />
 
