@@ -21,7 +21,7 @@ I like making random projects mainly in python and C++, and tinkering with other
 <br />
 
 
-[![Sean's github stats](https://githubstats.debarrportal.net/api?username=setdebarr&show_icons=true&theme=github_dark&hide=stars&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sean's github stats](https://githubstats.debarrportal.net/api?username=setdebarr&show_icons=true&theme=react&hide=stars&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setdebarr)](https://github.com/anuraghazra/github-readme-stats)
 -->
