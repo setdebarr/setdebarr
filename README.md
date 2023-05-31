@@ -2,8 +2,8 @@
 <br />
 <br />
 
-Hi, I'm Sean DeBarr. I'm a self taught programmer currently studying Computer Engineering at Liberty University.
-I like making random projects mainly in python and C++, and tinkering with other languges.
+Hi, I'm Sean DeBarr. I studied Computer Engineering at Liberty University.
+I like making random projects and tinkering with homelab configurations.
 
 <br />
 
